@@ -37,6 +37,8 @@
     </div>
 </template>
 <script>
+testApi
+import { testApi } from '@/api/api.js';// 导入我们的api接口
     export default {
         methods: {
             handleStart () {
