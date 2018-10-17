@@ -46,6 +46,7 @@ import { testApi } from '@/api/api.js';// 导入我们的api接口
                     title: 'Bravo',
                     content: 'LED显示集群控制系统'
                 });
+                testApi();
             }
         }
     }
